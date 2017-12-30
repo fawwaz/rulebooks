@@ -58,6 +58,11 @@ The title of the game.
 
 Example: `title: Settlers of Catan`
 
+#### Publisher
+The publisher of the game.
+
+Example: `publisher: Mayfair Games`
+
 #### Source
 The source of the rulebook. Usually a link to a PDF file.
 
