@@ -1,6 +1,7 @@
 ---
 title: Mamma Mia!
 source: https://boardgamegeek.com/filepage/14388/mamamiahtml
+publisher: ABACUSSPIELE
 tags:
     - card game
 information:
@@ -8,8 +9,7 @@ information:
     play-time: 30 minutes
 ---
 
-Contents
-========
+# Contents
 
 - 65 ingredient cards
     -   13 salamis
@@ -26,14 +26,12 @@ Contents
 -   Mamma Mia! card
 -   1 rule sheet
 
-Goal
-====
+# Goal
 
 Each player has orders for 8 pizzas. The player who completes the most
 pizzas in 3 rounds, wins.
 
-Preparation
-===========
+# Preparation
 
 Each player takes a set of 8 order cards (with the same colored back),
 shuffles the stack face down on the table; this is his personal **order
@@ -52,11 +50,9 @@ face down on the table as the *common* **ingredient stack**. Each player
 takes the top card from his personal order stack and adds it to his the
 ingredient cards in his hand.
 
-Play
-====
+# Play
 
-Playing Order
--------------
+## Playing Order
 
 On a player's turn he does the following in the order shown:
 
@@ -66,8 +62,7 @@ On a player's turn he does the following in the order shown:
     pizza stack
 -   he *must* draw cards to fill his hand to 7 cards
 
-Playing Explanation
--------------------
+## Playing Explanation
 
 The hungriest player begins. The others take their turns in clockwise
 order.
@@ -98,8 +93,7 @@ plays with 6 cards in his hand.
 The drawing and playing of cards ends when the last card is drawn from
 the ingredient stack.
 
-Mamma Mia! Card & Responsibilities
----------------------------------
+## Mamma Mia! Card & Responsibilities
 
 When a player is dealt or draws the Mamma Mia! card, he immediately
 places it face up on the table near his personal order stack and is
@@ -151,8 +145,7 @@ placed in the next round. Mamma Mia shuffles the cards that were placed
 on top of the Mamma Mia! card (including the Mamma Mia! card) and places
 them face down as the common ingredient stack.
 
-Beginning Next Round
---------------------
+## Beginning Next Round
 
 Mamma Mia begins the next round by taking her first turn. Some players
 may have fewer than 7 cards at the beginning of rounds 2 and 3 as they
@@ -160,16 +153,14 @@ may have used some of their cards to complete orders. If a player has no
 ingredient cards in such a case, he takes his normal turn, but without
 playing any ingredient cards.
 
-The Order Cards
-===============
+# The Order Cards
 
 5 of the eight order cards display specific ingredients needed. To fill
 these orders, the ingredients shown must be available in the face up
 ingredient piles and/or in the player's hand. There are 3 special
 pizzas, described below.
 
-Pizza Bombastica
-----------------
+## Pizza Bombastica
 
 To fill this order, you need 15 or more ingredients of any kind. As with
 other orders, the player who played it may add ingredients from his
@@ -179,15 +170,13 @@ order is filled, all ingredients in the face up piles are used (placed
 on the Mamma Mia card), even if this is more than 15. Thus, after a
 Bombastica order is filled, the ingredient piles are empty.
 
-Pizza Monotoni
---------------
+## Pizza Monotoni
 
 To fill this order, you need 1 of the specific ingredients shown on the
 card and exactly 6 of any other single ingredient. It may not be filled
 using 7 of the specific ingredient.
 
-Pizza Minimale
---------------
+## Pizza Minimale
 
 To fill this order, you need 1 of the specific ingredients shown on the
 card and exactly 3 of the ingredients with the fewest cards in the face
@@ -213,8 +202,7 @@ Alberto's color, which is green). Thus, Alberto may select between
 salami and mushroom. As there are not 3 of either, he must add 1 from
 his hand of whichever he chooses to complete the order.
 
-Game End
-========
+# Game End
 
 The game ends after three rounds.
 
