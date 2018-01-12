@@ -1,6 +1,7 @@
 ---
 title: BANG! The Dice Game
 source: http://www.dvgiochi.net/bang_the_dice_game/BANG!_dice_game-rules.pdf
+publisher: dV Giochi
 tags:
     - dice rolling
     - deduction
@@ -78,27 +79,27 @@ The game is played in turns, in clockwise order. On your turn, you will:
 
 The dice show six different symbols. The symbols showing on the dice each have a different effect. You must apply all the dice results in the following order. You cannot pass on a rolled die: you must use them all!
 
-# 1. Indian arrow
+## 1. Indian arrow
 
 You must resolve this die **immediately when rolled** , not at the end of your turn. Take one arrow token (one per arrow rolled) and keep it in front of you. You **may** roll this die again if you have re-rolls left. If you take the last arrow, the Indians attack and **each** player loses one life point for **each** arrow in front of him. After the attack, all players discard their arrows, and you resume your turn.
 
-# 2. Dynamite
+## 2. Dynamite
 
 This die **cannot be re-rolled**! If you roll **three** or more Dynamites, your turn ends immediately and you lose one life point. But, all your other dice results are still resolved as normal.
 
-# 3A. Bull's Eye “1”
+## 3A. Bull's Eye “1”
 
 Choose the player next to you on your left or right. That player loses one life point.
 
-# 3B. Bull's Eye “2”
+## 3B. Bull's Eye “2”
 
 Choose the player exactly two places to your left or right. That player loses one life point. If there are only two or three players left in the game, treat this as [1]. **Important**: [1] and [2] results are resolved at the same time. When counting places, do not include eliminated players.
 
-# 5. Beer
+## 5. Beer
 
 Choose any player: he gains one life point. You may choose yourself. You can **never** have more life points than the number you had at the beginning of the game. If you choose a player with his maximum life points, this result is wasted.
 
-# 6. Gatling
+## 6. Gatling
 
 If you roll three or more Gatlings you activate the Gatling Gun, and **each** of the **other** players loses one life point. Also, you discard all of your arrows.
 
