@@ -1,9 +1,9 @@
 ---
-title: Mansions of Madness: Second Edition
+title: Mansions of Madness - Second Edition
 publisher: Fantasy Flight Games
 source: https://www.orderofgamers.com/downloads/MansionsofMadness2ndEd_v1.pdf
 tags:
-  - co operative
+  - co-operative
   - adventure
 ---
 
